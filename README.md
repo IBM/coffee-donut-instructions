@@ -20,7 +20,7 @@ assets
 
 
 ## Prerequisites
-1. This workshop assumes you have an IBM Cloud account. Please ask the workshop facilitator for the URL to sign up for IBM account. If you don't have a unique URL, you can [register here](https://ibm.biz/Bdq2TN) - https://ibm.biz/Bdq2TN. 
+1. This workshop assumes you have an IBM Cloud account. Please ask the workshop facilitator for the URL to sign up. If you don't have a unique URL, you can [register here](https://ibm.biz/Bdq2TN) - https://ibm.biz/Bdq2TN. 
 2. Download [assets/coffee-donut.zip](assets/coffee-donut.zip) file that will be used as a template in this workshop.
 
 ## Technologies Used
@@ -50,7 +50,7 @@ assets
 
     ![](images/create-from-sample.png)
 
-1. Create new storage service
+1. Create a new storage service
     
     ![](images/create-new-storage-service.png)
 
@@ -58,11 +58,11 @@ assets
 
     ![](images/create-new-storage-service-defaults.png)
 
-1. Upload the sample file to create the new project. You can find the sample zip file under [assets/coffee-donut.zip](assets/coffee-donut.zip).
+1. Upload the sample file to create the new project. You can find the sample zip file under [assets/coffee-donut.zip](assets/coffee-donut.zip)
     
     ![](images/upload.sample.png)
 
-1. Finish uploading file and create new project
+1. Finish uploading file and create a new project
     
     ![](images/finish-creating-project.png)
 
