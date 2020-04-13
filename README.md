@@ -23,6 +23,11 @@ assets
 1. This workshop assumes you have an IBM Cloud account. Please ask the workshop facilitator for the URL to sign up for IBM account. If you don't have a unique URL, you can [register here](https://ibm.biz/Bdq2TN) - https://ibm.biz/Bdq2TN. 
 2. Download [assets/coffee-donut.zip](assets/coffee-donut.zip) file that will be used as a template in this workshop.
 
+## Technologies Used
+1. [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) - helps data scientists and analysts prepare data and build models at scale 
+2. [IBM Cloud Object Store](https://www.ibm.com/cloud/object-storage) - stores large volumes of unstructured data while still ensuring scalability, security, availability, reliability, manageability, and flexibility.
+3. [Jupyter Notebooks](https://developer.ibm.com/clouddataservices/docs/ibm-data-science-experience/notebooks/) - provides a collaborative environment and runtimes that enables Python, Scala, and R notebooks
+
 ## Steps
 
 1. Search for Watson Studio service on IBM Cloud in the Catalog or using the search bar as shown here
