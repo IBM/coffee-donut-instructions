@@ -95,10 +95,11 @@ assets
 
 ## Additional clarifications for the notebook
 
-1. Adding credentials to the notebook
+1. In order to use the data from the cloud object store in the notebook, use the `0100` data tab on the right side as show in the image below. You can use `insert credentials` link from the `coffee-donuts-segregated.zip` asset. This will insert some code in the notebook that provide you access to the credentials as a dictionary.
     
     ![](images/notebook-cos-credentials-insert.png)
-
-1. Using credentials in the notebook. Make sure you change the variable name to what was assigned in the last step when you added credentials to the notebook
     
+
+2. The credentials generated in the cell above will be stored in  a variable with a name like `credentials_number`. Assign it to `credentials` variable in the next cell. This `credentials` variable will be used in the rest of the notebook.
+
     ![](images/notebook-cos-credentials-variable.png)
