@@ -22,7 +22,7 @@
 ### 7. You can leave the defaults and click on `Create`
 ![](images/create-new-storage-service-defaults.png)
 
-### 8. Upload the sample file to create the new project
+### 8. Upload the sample file to create the new project. You can find the sample zip file under [assets/coffee-donut.zip](assets/coffee-donut.zip).
 ![](images/upload.sample.png)
 
 ### 9. Finish uploading file and create new project
