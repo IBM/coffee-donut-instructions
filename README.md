@@ -1,6 +1,29 @@
 # Build and Deploy an image classifier on IBM Cloud
 ## This hands-on lab builds a neural network to predict an input image as that of coffee, donut or a mug.
 
+The workshop provides you with all the data and assets you need to create the classifier on IBM Cloud. To get started, you can close this github repo or simply download the sample file under [assets/coffee-donut.zip](assets/coffee-donut.zip). You do not need to unzip the file, but simply upload it to Watson Studio as explained in the steps below. The zip file contains the following assets
+
+```
+assets
+├── data_asset
+│   ├── Coffee\ Bag\ 2.jpg
+│   ├── Coffee.jpg
+│   ├── Donut.jpg
+│   ├── Mug.jpg
+│   └── coffee-donuts-segregated.zip
+└── notebook
+    └── notebook:Train_a_simple_classifier_dam9_4_n1.ipynb
+```
+- data_asset/coffee-donuts-segregated.zip - this is your training data 
+- data_asset/*.jpg - test images used to predict with the model
+- Train_a_simple_classifier_dam9_4_n1.ipynb - this is the sample notebook that is used to train your image classifier.
+
+
+## Prerequisites
+1. This workshop assumes you have an IBM Cloud account. Please ask the workshop facilitator for the URL to sign up for IBM account. If you don't have a unique URL, you can [register here](https://ibm.biz/Bdq2TN) - https://ibm.biz/Bdq2TN. 
+
+## Steps
+
 ### 1. Search for Watson Studio service on IBM Cloud in the Catalog or using the search bar as shown here
 ![](images/create-watson-studio.png)
 
