@@ -1,7 +1,7 @@
 # Build and Deploy an image classifier on IBM Cloud
 ## This hands-on lab builds a neural network to predict an input image as that of coffee, donut or a mug.
 
-### 1. Search for Watson Studio service on IBM Cloud
+### 1. Search for Watson Studio service on IBM Cloud in the Catalog or using the search bar as shown here
 ![](images/create-watson-studio.png)
 
 ### 2. Create a Watson Studio instance
