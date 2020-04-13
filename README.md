@@ -55,4 +55,4 @@
 ![](images/notebook-cos-credentials-insert.png)
 
 ### 2. Using credentials in the notebook. Make sure you change the variable name to what was assigned in the last step when you added credentials to the notebook
-![](images/notebook-cos-credentails-variable.png)
+![](images/notebook-cos-credentials-variable.png)
