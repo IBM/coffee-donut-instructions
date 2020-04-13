@@ -101,5 +101,5 @@ assets
     
 
 2. The credentials generated in the cell above will be stored in  a variable with a name like `credentials_number`. Assign it to `credentials` variable in the next cell. This `credentials` variable will be used in the rest of the notebook.
-
+3. 
     ![](images/notebook-cos-credentials-variable.png)
