@@ -88,7 +88,7 @@ assets
     
     ![](images/notebook-runtime.png)
 
-1.  You can now run the cells to create the neural network!
+1.  You can now run the cells to create the neural network! Click on the first cell to focus on it and then hit the run button on the top bar. Click on the run button again to go to the next cell and keep going till the end to finish the workshop. You can click on the cell itself to edit the content. The two steps below ask you to add your cloud object storage credentials to download the training data file.
     
     ![](images/run-notebook.png)
 
@@ -100,6 +100,6 @@ assets
     ![](images/notebook-cos-credentials-insert.png)
     
 
-2. The credentials generated in the cell above will be stored in  a variable with a name like `credentials_number`. Assign it to `credentials` variable in the next cell. This `credentials` variable will be used in the rest of the notebook.
+2. The credentials generated in the cell above will be stored in  a variable with a name like `credentials_<number>`. The number gets incremented every time you run this cell. Assign it to `credentials` variable in the next cell. This `credentials` variable will be used in the rest of the notebook. 
  
     ![](images/notebook-cos-credentials-variable.png)
