@@ -41,7 +41,7 @@ assets
 
     ![Watson Studio new instance](images/create-watson-studio-instance.png)
 
-1. Click on `Get Started` to launch Watson Studio
+1. Click on `Launch in IBM Cloud Pak for Data` to launch Watson Studio
 
     ![Launch Watson Studio](images/launch-watson-studio.png)
 
