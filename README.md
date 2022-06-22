@@ -39,7 +39,7 @@ assets
 
 1. Create a Watson Studio instance
 
-    ![Watson Studio new instance](images/create-watson-studio-instance.png)
+    ![Watson Studio new instance](images/create-watson-studio-instance.jpg)
 
 1. Click on `Launch in IBM Cloud Pak for Data` to launch Watson Studio
 
@@ -89,7 +89,7 @@ assets
 
 1. This will instantiate a new runtime for you to run the notebook
 
-    ![Start kernel](images/notebook-runtime.png)
+    ![Start kernel](images/notebook-runtime.jpg)
 
 1. You can now run the cells to create the neural network! Click on the first cell to focus on it and then hit the run button on the top bar. Click on the run button again to go to the next cell and keep going till the end to finish the workshop. You can click on the cell itself to edit the content. The two steps below ask you to add your cloud object storage credentials to download the training data file.
 
