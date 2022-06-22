@@ -43,7 +43,7 @@ assets
 
 1. Click on `Launch in IBM Cloud Pak for Data` to launch Watson Studio
 
-    ![Launch Watson Studio](images/launch-watson-studio.png)
+    ![Launch Watson Studio](images/launch-watson-studio.jpg)
 
 1. `Create a Project` inside Watson Studio
 
@@ -67,17 +67,17 @@ assets
 
 1. Finish uploading file and create a new project
 
-    ![Finish Creating Project](images/finish-creating-project.png)
+    ![Finish Creating Project](images/finish-creating-project.jpg)
 
-    ![Load project](images/project-in-process.png)
+    ![Load project](images/project-in-process.jpg)
 
 1. Once the project has been created, view project to see details
 
-    ![View Project](images/viewproject.png)
+    ![View Project](images/viewproject.jpg)
 
 1. Open `Assets` tab. This is where you will find the data and notebooks
 
-    ![Assets tab](images/assets.png)
+    ![Assets tab](images/assets.jpg)
 
 1. Scroll down to `Notebooks` and open the `Train a sample classifier` notebook
 
@@ -85,7 +85,7 @@ assets
 
 1. If your notebook is in read-only mode, use the pencil button to edit the notebook
 
-    ![Edit notebook](images/edit-notebook.png)
+    ![Edit notebook](images/edit-notebook.jpg)
 
 1. This will instantiate a new runtime for you to run the notebook
 
@@ -93,14 +93,14 @@ assets
 
 1. You can now run the cells to create the neural network! Click on the first cell to focus on it and then hit the run button on the top bar. Click on the run button again to go to the next cell and keep going till the end to finish the workshop. You can click on the cell itself to edit the content. The two steps below ask you to add your cloud object storage credentials to download the training data file.
 
-    ![Run Notebook](images/run-notebook.png)
+    ![Run Notebook](images/run-notebook.jpg)
 
 ## Additional clarifications for the notebook
 
 1. In order to use the data from the cloud object store in the notebook, use the `0100` data tab on the right side as show in the image below. You can use `insert credentials` link from the `coffee-donuts-segregated.zip` asset. This will insert some code in the notebook that provide you access to the credentials as a dictionary.
 
-    ![Insert COS credentials](images/notebook-cos-credentials-insert.png)
+    ![Insert COS credentials](images/notebook-cos-credentials-insert.jpg)
 
 2. The credentials generated in the cell above will be stored in  a variable with a name like `credentials_<number>`. The number gets incremented every time you run this cell. Assign it to `credentials` variable in the next cell. This `credentials` variable will be used in the rest of the notebook.
 
-    ![Insert credentials](images/notebook-cos-credentials-variable.png)
+    ![Insert credentials](images/notebook-cos-credentials-variable.jpg)
